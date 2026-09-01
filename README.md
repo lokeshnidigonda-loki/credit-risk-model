@@ -9,7 +9,7 @@ An end-to-end machine learning deployment pipeline designed to calculate financi
 ## 🖼️ User Interface Preview
 
 <p align="center">
-  <img src="ui-preview.jpg" alt="Credit Risk Analytics UI Preview" width="85%" />
+  <img src="ui-preview.png" alt="Credit Risk Analytics UI Preview" width="85%" />
 </p>
 
 ---
